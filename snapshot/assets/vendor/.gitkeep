@@ -1,0 +1,1 @@
+# Keep vendor/ in git as an empty mount point; clones are local/Unraid only.

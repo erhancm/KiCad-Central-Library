@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CAT24C16
+D 16Kb I2C Serial EEPROM
+K 16Kb I2C Serial EEPROM
+F https://www.onsemi.com/pub/collateral/CAT24C01-D.pdf
+$ENDCMP
+#
+$CMP FSA2367
+D Low RON(0.75) Triple-SPDT, Negative-Swing Audio Source Switch
+K 2:1 SPDT Triple Audio
+F https://www.onsemi.com/pub/Collateral/FSA2367-D.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,67 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AudioJack3_Switch_DPDT_TR
+D Audio Jack, 3 Poles (Stereo / TRS), Grounded Sleeve, Switched Poles (Normalling)
+K audio jack receptacle stereo headphones phones TRS connector
+F ~
+$ENDCMP
+#
+$CMP Barrel_Jack_Switch_Shield
+D Shielded DC Barrel Jack with an internal switch
+K DC power barrel jack connector shield
+F ~
+$ENDCMP
+#
+$CMP DC-62F
+D DC-62 High Density D Subminiature Connector Female
+K D Sub DSUB DC-62 High Density HD
+$ENDCMP
+#
+$CMP DC-62M
+D DC-62 High Density D Subminiature Connector Male
+K D Sub DSUB DC-62 High Density HD
+$ENDCMP
+#
+$CMP DD-78F
+D DD-78 High Density D Subminiature Connector Female
+K D Sub DSUB DD-78 High Density HD
+$ENDCMP
+#
+$CMP DD-78M
+D DD-78 High Density D Subminiature Connector Male
+K D Sub DSUB DD-78 High Density HD
+$ENDCMP
+#
+$CMP HDMI-A-connector
+D Generic HDMI Connector pinout
+K Generic HDMI Connector pinout
+$ENDCMP
+#
+$CMP HDMI-A-connector-no-shield
+D Generic HDMI Connector pinout
+K Generic HDMI Connector pinout
+$ENDCMP
+#
+$CMP JACK-TRS
+D TRS Stereo Jack - no switches
+K TRS Stereo Jack
+F http://www.switchcraft.com/Drawings/35rapc__hn2_cd.pdf
+$ENDCMP
+#
+$CMP RJ45_Magnetics_100BaseTX_No_LEDS
+D RJ45 Jack with Integrated Magnetics for 10/100 Base TX No LEDs 5 cores
+K Magjack RJ45
+$ENDCMP
+#
+$CMP USB-Type-C-female
+D USB Type C Female Jack
+K USB Type C Female Jack
+$ENDCMP
+#
+$CMP USB_B
+D USB Type B connector
+K connector USB
+F  ~
+$ENDCMP
+#
+#End Doc Library

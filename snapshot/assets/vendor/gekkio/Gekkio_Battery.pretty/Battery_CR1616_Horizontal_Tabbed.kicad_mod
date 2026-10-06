@@ -1,0 +1,251 @@
+(footprint "Battery_CR1616_Horizontal_Tabbed"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "CR1616 battery with solder tabs")
+	(tags "cr1616")
+	(property "Reference" "REF**"
+		(at 0 -14.5 0)
+		(layer "F.SilkS")
+		(uuid "722b252b-d5e8-4df0-9f62-0803bd27d701")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Battery_CR1616_Horizontal_Tabbed"
+		(at 0 15 0)
+		(layer "F.Fab")
+		(uuid "22de89d1-a437-40cf-89da-8f4209d6e403")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b8d2521e-2cb2-4dd8-95a8-53b82d518fda")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5eb2d6c5-cae6-497b-a3e9-ccb3c4c3e741")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start 3.4 -9.7)
+		(end 6 -9.7)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9d75ccb8-a75e-439b-9c21-f61a9a4255b6")
+	)
+	(fp_line
+		(start 3.4 9.9)
+		(end 6 9.9)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "115c2d59-c885-49b4-8ebe-ae34c0f09e09")
+	)
+	(fp_line
+		(start 4.7 -8.4)
+		(end 4.7 -11)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "eb6c5b71-7a10-4d0d-80e6-d7d3d565b957")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 8.5 0)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "b8d2afef-f2ac-48e1-8b42-130a15f2064d")
+	)
+	(fp_line
+		(start -2.25 -13.25)
+		(end -2.25 -8.45)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "17f71606-1d97-4abd-83c9-886faeef59fc")
+	)
+	(fp_line
+		(start -2.25 -13.25)
+		(end 2.25 -13.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d0639e25-480f-4463-b4b3-66c240df0737")
+	)
+	(fp_line
+		(start -2.25 8.45)
+		(end -2.25 13.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "b59c1e06-42a7-47a4-9849-e23dc7eb4fc9")
+	)
+	(fp_line
+		(start -2.25 13.25)
+		(end 2.25 13.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "64e2f518-c903-4a6f-8364-42fc0f687cff")
+	)
+	(fp_line
+		(start 2.25 -13.25)
+		(end 2.25 -8.45)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "88c026a5-d0a3-4511-8e71-5174c193c919")
+	)
+	(fp_line
+		(start 2.25 8.45)
+		(end 2.25 13.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "74316ee6-a223-49c1-88da-2321df441864")
+	)
+	(fp_arc
+		(start -8.75 0)
+		(mid -6.937015 -5.330396)
+		(end -2.25 -8.45)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "144381d8-21f6-44d2-96f7-46df20051470")
+	)
+	(fp_arc
+		(start -2.25 8.45)
+		(mid -6.937015 5.330396)
+		(end -8.75 0)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "24f48355-1228-4290-9955-5dbaafa132ad")
+	)
+	(fp_arc
+		(start 2.25 -8.45)
+		(mid 6.937015 -5.330396)
+		(end 8.75 0)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "6f6b616f-6e18-49d3-b805-c9f42ac95af2")
+	)
+	(fp_arc
+		(start 8.75 0)
+		(mid 6.937015 5.330396)
+		(end 2.25 8.45)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "4a207f4b-0088-47bb-b8a9-f1ad458f2e8f")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 8 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "3f36504a-a894-447d-a344-516f36acf334")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "aedd9e91-0a70-412b-ba2f-450e699b2a04")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at 0 -11)
+		(size 4 4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.0625)
+		(uuid "15e25e96-614b-44a6-af56-8ef95a7ce697")
+	)
+	(pad "2" smd roundrect
+		(at 0 11)
+		(size 4 4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.0625)
+		(uuid "68bf63ca-6fd8-486d-8515-bd897555edae")
+	)
+	(embedded_fonts no)
+	(model "${GEKKIO_KICAD_LIBS}/Gekkio_Battery.3dshapes/Battery_CR1616_Horizontal_Tabbed.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

@@ -1,0 +1,39 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP R_POT_US_Shielded
+D Potentiometer, US symbol
+K resistor variable
+F ~
+$ENDCMP
+#
+$CMP SPDT
+D SPST switch
+$ENDCMP
+#
+$CMP SPST_GND
+D SPST switch with Ground Pin
+K SPST switch ground
+$ENDCMP
+#
+$CMP SPST_MOM
+D Push button switch, generic, two pins
+K switch normally-open pushbutton push-button
+$ENDCMP
+#
+$CMP SPST_MOM_SHLD
+D Push button switch, generic, two pins
+K switch normally-open pushbutton push-button
+$ENDCMP
+#
+$CMP SPST_Relay
+D Generic SPST Relay
+K Generic SPST Relay
+$ENDCMP
+#
+$CMP SW_SPST_RGB_LED_CC
+D Single Pole Single Throw (SPST) switch with Common Cathode RGB LED
+K switch SPST LED OFF-ON CC RGB
+F ~
+$ENDCMP
+#
+#End Doc Library

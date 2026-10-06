@@ -1,0 +1,74 @@
+{
+  "sparkfun": {
+    "commit": "ab306d927d2952c75508f116700c32d647e936ab",
+    "git_url": "https://github.com/sparkfun/SparkFun-KiCad-Libraries.git",
+    "synced_at": "2026-09-22T10:41:12.151305+00:00",
+    "vendored_in_repo": false
+  },
+  "kicad_symbols": {
+    "commit": "5464b4c580e8e3c792cc614d3ad89696426035c0",
+    "git_url": "https://gitlab.com/kicad/libraries/kicad-symbols.git",
+    "synced_at": "2026-09-15T19:34:45.278450+00:00",
+    "vendored_in_repo": false
+  },
+  "kicad_footprints": {
+    "commit": "1df46f29b61cf0fa2bd8e4b5e0702895c3041c01",
+    "git_url": "https://gitlab.com/kicad/libraries/kicad-footprints.git",
+    "synced_at": "2026-09-22T09:42:34.056813+00:00",
+    "vendored_in_repo": false
+  },
+  "kicad_packages3d": {
+    "commit": "8d4070daa0fa3f7a7f3c176f4ca7bffc4df392be",
+    "git_url": "https://gitlab.com/kicad/libraries/kicad-packages3D.git",
+    "synced_at": "2026-09-22T10:03:03.533009+00:00",
+    "vendored_in_repo": false
+  },
+  "digikey": {
+    "commit": "d4bd68f42e6ccc474526811a853a03692e170b58",
+    "git_url": "https://github.com/Digi-Key/digikey-kicad-library.git",
+    "synced_at": "2026-09-15T12:53:40.305956+00:00",
+    "vendored_in_repo": false
+  },
+  "gekkio": {
+    "commit": "043cfae686d2fdc044d74e0dc8e968f783c58ece",
+    "git_url": "https://github.com/Gekkio/gekkio-kicad-libs.git",
+    "synced_at": "2026-09-22T10:40:06.688105+00:00",
+    "vendored_in_repo": false
+  },
+  "alternate": {
+    "commit": "cf93181d5934eca1b0560f66895f1b06958700f7",
+    "git_url": "https://github.com/DawidCislo/Alternate-KiCad-Library.git",
+    "synced_at": "2026-09-22T10:00:59.628975+00:00",
+    "vendored_in_repo": false
+  },
+  "jlcpcb_kicad_library": {
+    "commit": "de4e6c46525568f1f4212707a12ff830eb1f63dc",
+    "git_url": "https://github.com/CDFER/JLCPCB-Kicad-Library",
+    "synced_at": "2026-09-22T10:42:11.234512+00:00",
+    "vendored_in_repo": false
+  },
+  "arduino_kicad_library": {
+    "commit": "1075811e04a7a0ec7645a3590f179655e027c650",
+    "git_url": "https://github.com/Alarm-Siren/arduino-kicad-library",
+    "synced_at": "2026-09-15T13:34:15.247597+00:00",
+    "vendored_in_repo": false
+  },
+  "teensy_library": {
+    "commit": "eb3293ef8c7f6fa1923ad48828c38822c2791e61",
+    "git_url": "https://github.com/XenGi/teensy_library",
+    "synced_at": "2026-09-15T13:54:10.117084+00:00",
+    "vendored_in_repo": false
+  },
+  "kicad_libraries": {
+    "commit": "bb90c630022330467080726c1a6a7c654dca8326",
+    "git_url": "https://github.com/sww1235/KiCAD-Libraries",
+    "synced_at": "2026-09-15T13:55:13.205654+00:00",
+    "vendored_in_repo": false
+  },
+  "espressif_kicad_libraries": {
+    "commit": "dd76561812ab300351234ba6e0ec1295641796f0",
+    "git_url": "https://github.com/espressif/kicad-libraries",
+    "synced_at": "2026-09-15T19:37:53.954065+00:00",
+    "vendored_in_repo": false
+  }
+}
